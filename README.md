@@ -2,7 +2,7 @@
 
 Test Repository
 
-[link](https://google.com)
+[link to google](https://google.com)
 
 ## Map of WM Campus
 
