@@ -1,9 +1,9 @@
 # Test-1
+Alex Pak's Work Index
 
-Test Repository
+[Practice_Task1]()
 
-[link_to_google](https://google.com)
 
-## Map of WM Campus
 
-![](campus_map_wm.PNG)
+
+
