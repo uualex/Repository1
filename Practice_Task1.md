@@ -25,3 +25,4 @@ plot(x, y, type = "b", main = "The Path of a Running Boy",
      pch = 0,
      cex = 1.5)
      ```
+![Plot](Basic_Running_Boy_Plot.png)
