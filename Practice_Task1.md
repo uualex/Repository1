@@ -1,6 +1,6 @@
 #Task1
 
-(Basic_Running_Boy_Plot.png)
+[Plot](Basic_Running_Boy_Plot.png)
 
 ```
 x <- 1:10
