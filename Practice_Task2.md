@@ -1,6 +1,6 @@
 #Task2
 
-[Plot](Three_Connected_Houses_Plot.png)
+(Three_Connected_Houses_Plot.png)
 
 ```
 
