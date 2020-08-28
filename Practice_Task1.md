@@ -1,6 +1,8 @@
 #Task1
 
-My first coding task with R coding language. To visualize the path of a running boy, I created a linear line on a 100x100 plot.
+My first coding task with R coding language. To visualize the path of a running boy, I created 
+a linear line on a 100x100 plot.
+
 ![](Basic_Running_Boy_Plot.png)
 
 ```
