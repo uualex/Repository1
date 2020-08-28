@@ -1,4 +1,7 @@
 #Task2
+I continued my work on Task1 to created a more advanced plot. I add various trees with by sampling 
+coordinate points and using symbols.With the use of xspline I was also able to connect the points 
+with a curved line. 
 
 ![](Three_Connected_Houses_Plot.png)
 
