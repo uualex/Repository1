@@ -9,6 +9,9 @@ Task 1 8/22
 Task 2 8/24
 [Practice Task2 Three Connected Houses](Practice_Task2.md)
 
+Task 3 8/27
+[Practice Task3 7 Connected Houses on 1000x1000](Practice_Task3.md)
+
 
 
 
