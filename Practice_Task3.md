@@ -2,7 +2,7 @@
 
 I continued my work on Task2 with a larger and more populated plot. To meet the challenge 
 requirements I increased the amount of trees, houses, and houses connected with curves. 
-Using the same concepts in Task2 and editing numerical values I increased the complexity
+By using the concepts in Task2 and adjusting the respective numerical values, I increased the complexity
 of the plot in Task2.
 
 ![](7_House_Running_Boy.png)
