@@ -6,7 +6,7 @@ requirements I increased the amount of trees, houses, and houses connected with 
 Using the same concepts in Task2 and editing numerical values I increased the complexity
 of the plot in Task2.
 
-![](Basic_Running_Boy_Plot.png)
+![](7_House_Running_Boy.png)
 
 ```
 # sets plot 1000x1000
