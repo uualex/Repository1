@@ -1,6 +1,5 @@
 #Task3
 
-
 I continued my work on Task2 with a larger and more populated plot. To meet the challenge 
 requirements I increased the amount of trees, houses, and houses connected with curves. 
 Using the same concepts in Task2 and editing numerical values I increased the complexity
