@@ -5,10 +5,10 @@ and source data. I learned how to import, reorganize, modify, and export data wi
 
 Bar Graphs
 
-![](Total_Pop_by_Men_&_Women.pdf)
+![](Total_Pop_by_Men_&_Women-1.png)
 
-![](Percent_female_difference_with_Remote_Data.pdf)
+![](Percent_female_difference_with_Remote_Data-1.png)
 
-![](Population_Density_by_Sq_km.pdf)
+![](Population_Density_by_Sq_km-1.png)
 
-![](Population_Difference_With_Remote_Data.pdf)
+![](Population_Difference_With_Remote_Data-1.png)
