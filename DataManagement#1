@@ -1,32 +1,9 @@
 #Task4
 
-My first coding task with R coding language. To visualize the path of a running boy, I created 
-a linear line on a 100x100 plot.
+Given two sets of Liberia counties I created various plots that visualize the remote 
+and source data. I learned how to import, reorganize, modify, and export data with R Plots.
 
-![](Basic_Running_Boy_Plot.png)
-
-```
-x <- 1:10
-y <- 10:1
-
-plot(x,y)
-
-plot(x, y, type = "l")
-plot(x, y, type = "o")
-
-plot(x, y, type = "o",
-     main = "The Path of a Running Boy",
-     sub = "units of distance = meters",
-     xlab = "longitude", 
-     ylab = "latitude")
-
-plot(x, y, type = "b", main = "The Path of a Running Boy", 
-     sub = "units of distance = meters", 
-     xlab = "longitude", 
-     ylab = "latitude",
-     lty = 2,
-     lwd = .75,
-     col = "blue",
-     pch = 0,
-     cex = 1.5)
-```
+![](Total_Pop_by_Men_&_Women.pdf)
+![](Percent_female_difference_with_Remote_Data.pdf)
+![](Population_Density_by_Sq_km.pdf)
+![](Population_Difference_With_Remote_Data.pdf)
