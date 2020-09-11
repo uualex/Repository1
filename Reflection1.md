@@ -11,4 +11,4 @@ The result of data science and machine learning has led human-kind as close as p
 
 Silver, D., Hubert, T., Schrittwieser, J., &amp; Hassabis, D. (2018, December 6). AlphaZero: Shedding new light on the grand games of chess, shogi and Go. Retrieved September 11, 2020, from https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go
 
-Google Cloud. (n.d.). Cloud Tensor Processing Units (TPUs) &nbsp;|&nbsp; Google Cloud. Retrieved September 11, 2020, from https://cloud.google.com/tpu/docs/tpus
+Google Cloud. (n.d.). Cloud Tensor Processing Units (TPUs) &nbsp; &nbsp; Google Cloud. Retrieved September 11, 2020, from https://cloud.google.com/tpu/docs/tpus
