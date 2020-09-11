@@ -7,3 +7,8 @@ Through millions of simulated games and reinforcement learning, AlphaZero progre
 AlphaZero is also utilizes Cloud Tensor Processing Unit (TPUs) that were designed specifically for machine learning.  These TPUs have a comparative advantage over other processing units in the way it innovates quantization, inference math, parallel processing, systolic arrays, and more. In conjunction with traditionally available CPUs, these TPUs are ideal for the AlphaZero project and other machine learning concepts. 
 
 The result of data science and machine learning has led human-kind as close as possible to “solving” games like chess, shogi, and go. While AlphaZero is not currently available to the public, similar neural network-based game engines are used as great learning tools for the world’s top chess, shogi, and go players. Unlike before, there is a solution to the lack of top .1% player’s minds. AlphaZero has immensely increased the ability for everyone to study and practice games at the highest level.	
+
+
+Silver, D., Hubert, T., Schrittwieser, J., &amp; Hassabis, D. (2018, December 6). AlphaZero: Shedding new light on the grand games of chess, shogi and Go. Retrieved September 11, 2020, from https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go
+
+Google Cloud. (n.d.). Cloud Tensor Processing Units (TPUs) &nbsp;|&nbsp; Google Cloud. Retrieved September 11, 2020, from https://cloud.google.com/tpu/docs/tpus
