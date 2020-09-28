@@ -1,0 +1,36 @@
+> summary(model_RCL3)
+
+quantmod object:   lm1601306713.84387 	Build date:  2020-09-28 11:25:13 
+
+Model Specified: 
+     Delt(Next(Cl(RCL))) ~ Delt(Cl(CCL)) + Delt(Cl(CUK)) + Delt(Cl(DWSH)) +   Delt(Cl(NCLH)) + Delt(Cl(LIND)) 
+
+Model Target:  Delt.Next.Cl.RCL 		 Product:  RCL 
+Model Inputs:  Delt.Cl.CCL, Delt.Cl.CUK, Delt.Cl.DWSH, Delt.Cl.NCLH, Delt.Cl.LIND 
+
+Fitted Model: 
+
+	Modelling procedure:  lm 
+	Training window:  149  observations from  2020-02-10 to 2020-09-10
+
+Call:
+lm(formula = quantmod@model.formula, data = training.data)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.264495 -0.041180 -0.003291  0.042111  0.218798 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)  
+(Intercept)   0.001456   0.007070   0.206   0.8371  
+Delt.Cl.CCL  -0.235843   0.462622  -0.510   0.6110  
+Delt.Cl.CUK   0.162250   0.492917   0.329   0.7425  
+Delt.Cl.DWSH  0.213910   0.327373   0.653   0.5145  
+Delt.Cl.NCLH  0.273167   0.147866   1.847   0.0668 .
+Delt.Cl.LIND  0.026174   0.123198   0.212   0.8321  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.08566 on 143 degrees of freedom
+Multiple R-squared:  0.04165,	Adjusted R-squared:  0.00814 
+F-statistic: 1.243 on 5 and 143 DF,  p-value: 0.2922
