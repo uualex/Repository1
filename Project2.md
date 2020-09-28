@@ -9,6 +9,9 @@ Average Growth Rate 2010-2014
 ![](averagegrowthrate.png)
 
 ## Part 2 Stock Predictor
+Matrix Model
+![](RCL_5stockprediction.png)
+
 
 Model 1 
 ~~~
