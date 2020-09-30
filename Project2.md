@@ -133,3 +133,9 @@ Residual standard error: 0.08566 on 143 degrees of freedom
 Multiple R-squared:  0.04165,	Adjusted R-squared:  0.00814 
 F-statistic: 1.243 on 5 and 143 DF,  p-value: 0.2922
 ~~~
+## Part 3 Stock Portfolio Graph Models
+Monthly Portfolio Returns
+![](StockBarModelpt3.png)
+
+Portfolio Value Growth
+![](StockLineModelpt3.png)
