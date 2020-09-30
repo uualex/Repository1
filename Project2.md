@@ -135,6 +135,7 @@ F-statistic: 1.243 on 5 and 143 DF,  p-value: 0.2922
 ~~~
 ## Part 3 Stock Portfolio Graph Models
 Monthly Portfolio Returns
+
 ![](StockBarModelpt3.png)
 
 Portfolio Value Growth
