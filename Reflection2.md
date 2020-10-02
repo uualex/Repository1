@@ -12,7 +12,11 @@ Another current application of machine-learning is 4D-Var. It is a “weak-const
 Some of the current barriers of machine learning forecasting models are its reliance on 2D images analysis (compared to 3D analysis). However, if these data-driven models can incorporate data that does not depend on 2D convolutional networks potential forecasts will surpass the dubious current 15-day forecast. 
 
 Sources: 
+
 Data Science for Weather Prediction - The Prerequisite to all Natural Disasters. (2019, September 26). Retrieved October 02, 2020, from https://data-flair.training/blogs/data-science-for-weather-prediction/
+
 Ebr. (2020, July 06). How data science can enhance weather forecasting. Retrieved October 02, 2020, from https://www.europeanbusinessreview.com/how-data-science-can-enhance-weather-forecasting/
+
 Hickey, J. (2020, January 13). Using Machine Learning to "Nowcast" Precipitation in High Resolution. Retrieved October 02, 2020, from https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html
+
 Peckham, O. (2020, April 27). Could Machine Learning Replace the Entire Weather Forecast System? Retrieved October 02, 2020, from https://www.hpcwire.com/2020/04/27/could-machine-learning-replace-the-entire-weather-forecast-system/
