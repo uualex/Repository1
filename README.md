@@ -27,3 +27,5 @@ Reflection #1 9/9
 Reflection #2 9/30
 [Reflection 2](Reflection2.md)
 
+Reflection #3 10/15
+[Reflection 3](Reflection3.md)
