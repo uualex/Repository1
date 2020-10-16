@@ -21,6 +21,9 @@ Task 5 9/5
 Task 6 9/24
 [Project 2 Part 1, Part 2, Part 3](Project2.md)
 
+Task 7 10/16
+[Project 3 Part 1, Stretch Goal 2, Stretch Goal 3](Project3.md)
+
 Reflection #1 9/9
 [Reflection 1](Reflection1.md)
 
