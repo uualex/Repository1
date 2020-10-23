@@ -12,4 +12,4 @@ Lithuania with population heat map of ADM1 and ADM2.
 ## Stretch Goal 3 
 
 3D movie render of Lithuania Population by elevation.
-![video](nld_pop20_stretch_goal_3.mp4)
+[video](nld_pop20_stretch_goal_3.mp4)
