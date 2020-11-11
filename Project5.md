@@ -4,17 +4,17 @@
 ## 
 Plot of layer 12 Slope
 
-![](project5.layer12.png)
+![](project5_layer12.png)
 
 ## 
 Plot of layer 8 (dst160 = Tree cover, flooded, fresh or brakish water)
 
-![](project5.layer8.png)
+![](project5_layer8.png)
 
 ## 
 Plot of layer 10  (dst200 = Bare areas)
 
-![](project5.layer10.png)
+![](project5_layer10.png)
 
 ## 
 Plot of Population Histogram 
