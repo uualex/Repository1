@@ -14,19 +14,19 @@ Plot of layer 10  (dst200 = Bare areas)
 ![](project5.layer10.png)
 
 ## 
-Plot of layer 12 
-![]()
+Plot of Population Histogram 
+![](project5_histogrampop.png)
 
 ## 
-Plot of layer 12 
-![]()
+Plot of Population Density with geom_density()
+![](project5_linepopdensity.png)
 
 ## 
-Plot of layer 12 
-![]()
+Plot of Filled in Population Density Histogram.
+![](project5_pop.png)
 
 ## 
-Plot of layer 12 
-![]()
+Plot of NTL density
+![](project5_ntl.png)
 
 
