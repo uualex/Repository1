@@ -4,7 +4,7 @@
 ## 
 Plot of layer 12 Slope
 
-![](project5_layer12.png)
+![](project5.layer12.png)
 
 ## 
 Plot of layer 8 (dst160 = Tree cover, flooded, fresh or brakish water)
