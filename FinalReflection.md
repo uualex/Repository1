@@ -1,22 +1,8 @@
 
 Final Reflection                             	         							       11/13/2020
 
-The shipping and logistics industry have used data analytics in its elementary forms for the of longest time. With the aim of profit maximization these shipping companies have transitioned into the world of big data and measure metrics from supply, fuel, communication, routing, shipping time, freight rates, overhead, navigation, weather, fleet coordination, and inventory.
+From a general viewpoint, the applications and potential of data science are clear to most. With its flashy capabilities like machine learning and almost unexplainably predictive abilities new developments in the field will attract attention. However, data science impacts how human behavior and other complex systems can be interpreted in fundamental ways. These can be explained through the significance of improving measurement (data) and how its increased precision and scope serve to eliminate inequalities and inefficiencies. 
 
-Predictive features can be used to mitigate losses and optimize shipping. Causes of lost vessels at sea, lost warehouse containers, and damaged goods can be prevented through the data collected from sensors for temperature, volume, and others. 
+Geoff West and Sinan Aral both stated the importance of measurement in science and understanding. In relation to data science, measurement is just another data metric to be found. Traditional measurements like distance, weight, and color can be extended to types of populations, densities, complex outcomes, and minute things like atomic orbital spins. The language of science is data and measurements. The exactness and empirical nature of data and measurements are characteristics why data can be scaled to large predictions and algorithms accurately and without bias. Unlike before, reliance on intuition, themes, and estimation can be replaced by the confidence of raw data and measurement. 
 
-The methods of data entry has also been improved. One example, Shipamax, integrates emails receipts and attachments and automatically entry shipping data. By using artificial intelligence and computer vision, Shipamax is able to cut down costs, paperwork, data security, efficiency, and time compared to manually inputting and reading email receipts. 
-
-Another shipping related company, ClearMetal, uses their software to predict risks and potential delays throughout the entire shipping process. Their software utilizes machine learning for logistics planning. 
-
-A third interesting application is the usage of wave data. An MIT research team labeled a new type of wave data that is used to predict rouge waves formations. These rouge waves are especially costly to the maritime shipping industry with the delays and damages the are associated with poor sea weather. Because of this discovery, companies have been quick to capitalize on wave data to better insure and protect and safety of crew and cargo. These predictive algorithms for shipping routing and weather use many core data science concepts such as machine learning and 
-
-These applications benefit both the consumers and producers with faster and more reliable shipping as well as cost mitigation and improved asset utilization for the shipping providers. 
-
-Sources:
-
-MISMarine. (2020, April 08). Data Science: Making a Splash in the Shipping Industry. Retrieved November 01, 2020, from https://mismarine.com/data-science-making-a-splash-in-the-shipping-industry/
-
-Bruno, P. (n.d.). Machine Learning Meets the Ancient Mariner. Retrieved November 01, 2020, from https://www.thoughtco.com/machine-learning-and-data-science-3960320
-
-Big Data in Maritime: How a shipping company can effectively use data. (n.d.). Retrieved November 01, 2020, from https://marine-digital.com/article_bigdata_in_maritime
+The precision and scope of modern data usage is unlike any time in history before. Data is being collected in nearly all economic sectors as firms realize its potentials. For these profit-maximizing firms, the elimination of efficiencies help their bottom line as well and the health of economic markets. For example, in the shipping industry, many data science concepts are used to improve data inputting, asset utilization, waste and risk management, and even weather forecasting to protect crew and cargo. Data science also aids other non-profit seeking issues. The ability to identify problems is a universal asset in human progression. Examples of unfreedoms we face today are the amount of time spent working. Quality of life for poorer countries can dramatically improve as their economies and jobs become more efficient. With advancing data science examples like smart farming are reducing the worries of food security. Data science can also identify social inequalities. With the increased scope of modern data, the ability to identify previously hidden social inequalities to minority groups have increased. The effects of a newly constructed buildings or legislation can now be analyzed to see how it serves humans as a whole and individually. 
