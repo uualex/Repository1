@@ -44,3 +44,6 @@ Reflection #4 10/29
 
 Final Reflection 11/13
 [Final Reflection](FinalReflection.md)
+
+Final Project 11/24
+[Final Project](Final.md)
